@@ -26,6 +26,10 @@
   - GitHub montage-redesign 저장소는 광양창의융합 최종 발표 자료만 남기도록 정리
   - 로컬 폴더는 ~/Desktop/04_프로젝트/광양창의융합 이름으로 재설치
   - 기존 ~/Desktop/04_프로젝트/광양창의융합 HTML 및 ~/Desktop/04_프로젝트/montage-redesign 중복 폴더 제거
+- 패밀리스케줄러 프로젝트 정리
+  - GitHub family-cal 저장소는 main 브랜치 하나만 남기도록 정리
+  - 로컬 폴더는 ~/Desktop/04_프로젝트/패밀리스케줄러 이름으로 재설치
+  - 로컬 임시 연결 폴더 montage-redesign-현재작업 및 .DS_Store 제외
 - Codex 왼쪽 프로젝트 목록의 예전 경로 경고를 막기 위해 숨김 연결 유지
   - ~/Documents/New project 2 -> ~/Desktop/04_프로젝트/포스코 신입사원
   - ~/Documents/광양창의융합 HTML -> ~/Desktop/04_프로젝트/광양창의융합
