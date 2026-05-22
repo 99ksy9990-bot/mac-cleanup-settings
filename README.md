@@ -15,17 +15,20 @@
 - 기존 프로젝트 폴더는 ~/Desktop/04_프로젝트에 유지
 - 문서 폴더에 섞여 있던 프로젝트성 폴더를 ~/Desktop/04_프로젝트로 이동
   - ~/Documents/New project -> ~/Desktop/04_프로젝트/Codex_New_project
-  - ~/Documents/montage-redesign -> ~/Desktop/04_프로젝트/montage-redesign
+  - ~/Documents/montage-redesign -> ~/Desktop/04_프로젝트/광양창의융합
 - 다운로드의 삭제검토 자료를 ~/Documents/99_기타/삭제검토_다운로드로 이동
 - 바탕화면 정리
   - 04_프로젝트
 - 바탕화면과 프로젝트 내부의 불필요한 바로가기 폴더 제거
 - 프로젝트 내부 연결을 새 위치 기준으로 다시 연결
   - 패밀리스케줄러/montage-redesign-현재작업
-  - 광양창의융합 HTML/figma-deck
+- 광양창의융합 프로젝트 정리
+  - GitHub montage-redesign 저장소는 광양창의융합 최종 발표 자료만 남기도록 정리
+  - 로컬 폴더는 ~/Desktop/04_프로젝트/광양창의융합 이름으로 재설치
+  - 기존 ~/Desktop/04_프로젝트/광양창의융합 HTML 및 ~/Desktop/04_프로젝트/montage-redesign 중복 폴더 제거
 - Codex 왼쪽 프로젝트 목록의 예전 경로 경고를 막기 위해 숨김 연결 유지
   - ~/Documents/New project 2 -> ~/Desktop/04_프로젝트/포스코 신입사원
-  - ~/Documents/광양창의융합 HTML -> ~/Desktop/04_프로젝트/광양창의융합 HTML
+  - ~/Documents/광양창의융합 HTML -> ~/Desktop/04_프로젝트/광양창의융합
   - ~/Documents/New project -> ~/Desktop/04_프로젝트/패밀리스케줄러
 - 스크린샷 저장 위치를 문서 폴더의 디자인/스크린샷 쪽으로 정리
 - 용량 큰 항목 정리
