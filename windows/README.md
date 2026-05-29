@@ -13,9 +13,16 @@
 - `04_디자인`
 - `99_기타`
 
-바탕화면에는 프로젝트 전용 폴더를 만듭니다.
+Codex 작업 폴더는 문서 폴더 아래에 만듭니다.
 
-- `04_프로젝트`
+- `Codex_프로젝트`
+  - `01_패밀리스케줄러`
+  - `02_광양창의융합`
+  - `03_포스코_신입사원_금융교육`
+  - `04_제주연수원_예약확인`
+  - `05_Mac_정리_설정`
+  - `06_메일발송`
+  - `07_비행기_예약`
 
 ## 실행 방법
 
@@ -31,10 +38,9 @@ powershell -ExecutionPolicy Bypass -File .\windows\setup-folders.ps1
 
 ## 사용자 지정 위치
 
-문서 폴더나 바탕화면 위치를 직접 지정하려면:
+문서 폴더 위치를 직접 지정하려면:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\windows\setup-folders.ps1 `
-  -DocumentsRoot "D:\문서" `
-  -DesktopRoot "$env:USERPROFILE\Desktop"
+  -DocumentsRoot "D:\문서"
 ```
