@@ -1,0 +1,51 @@
+# 04_프로젝트 통합 정리 기록
+
+- MOVED /Users/santak/Desktop/04_프로젝트/염경섭/박선주, 이여진.pptx -> /Users/santak/Documents/01_염경섭/박선주, 이여진.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/염경섭/여수루지1.JPG -> /Users/santak/Documents/01_염경섭/여수루지1.JPG
+- MOVED /Users/santak/Desktop/04_프로젝트/염경섭/여수루지2.JPG -> /Users/santak/Documents/01_염경섭/여수루지2.JPG
+- MOVED /Users/santak/Desktop/04_프로젝트/염경섭/유니버셜 입장권 및 패스 -> /Users/santak/Documents/01_염경섭/유니버셜 입장권 및 패스
+- MOVED /Users/santak/Desktop/04_프로젝트/염경섭/푸꾸옥 -> /Users/santak/Documents/01_염경섭/푸꾸옥
+- REMOVED_EMPTY /Users/santak/Desktop/04_프로젝트/염경섭
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/1. 2026학년도 광양영재교육원 영재교육 대상자 선발계획(학교 안내).hwp -> /Users/santak/Documents/02_염초롱/1. 2026학년도 광양영재교육원 영재교육 대상자 선발계획(학교 안내).hwp
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/1학년 1학기, 2학기 시간표.hwpx -> /Users/santak/Documents/02_염초롱/1학년 1학기, 2학기 시간표.hwpx
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/2025. 2학기 기말고사 시험 일정 및 범위(1, 2,3학년).hwp -> /Users/santak/Documents/02_염초롱/2025. 2학기 기말고사 시험 일정 및 범위(1, 2,3학년).hwp
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/2025학년도 학교 학사력(4.7.수정) (1).pdf -> /Users/santak/Documents/02_염초롱/2025학년도 학교 학사력(4.7.수정) (1).pdf
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/2026학년도 광양여자고등학교 신입생 입학전형 요강.hwp -> /Users/santak/Documents/02_염초롱/2026학년도 광양여자고등학교 신입생 입학전형 요강.hwp
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/[붙임2] 2025. 한지샘 도전 골든벨 문제 출제 영역 (1).hwpx -> /Users/santak/Documents/02_염초롱/[붙임2] 2025. 한지샘 도전 골든벨 문제 출제 영역 (1).hwpx
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/사진액자.pptx -> /Users/santak/Documents/02_염초롱/사진액자.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/스포츠리그.jpg -> /Users/santak/Documents/02_염초롱/스포츠리그.jpg
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/한국 중학교의 학교생활 문화(수정중).pptx -> /Users/santak/Documents/02_염초롱/한국 중학교의 학교생활 문화(수정중).pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/염초롱/한국 중학교의 학교생활 문화(제출).pptx -> /Users/santak/Documents/02_염초롱/한국 중학교의 학교생활 문화(제출).pptx
+- REMOVED_EMPTY /Users/santak/Desktop/04_프로젝트/염초롱
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/(PART 1)250415 전국투자자교육협의회 절세가이드 25.ver 내지.pdf -> /Users/santak/Documents/03_포스코새마을금고/(PART 1)250415 전국투자자교육협의회 절세가이드 25.ver 내지.pdf
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/(합본)전국투자자교육협의회 절세가이드 25.ver 내지.pdf -> /Users/santak/Documents/03_포스코새마을금고/(합본)전국투자자교육협의회 절세가이드 25.ver 내지.pdf
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/250820 신입사원 교육 -> /Users/santak/Documents/03_포스코새마을금고/250820 신입사원 교육
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/251223 신입사원 교육 -> /Users/santak/Documents/03_포스코새마을금고/251223 신입사원 교육
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/ChatGPT Image 2026년 1월 5일 오전 10_08_02.png -> /Users/santak/Documents/03_포스코새마을금고/ChatGPT Image 2026년 1월 5일 오전 10_08_02.png
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/IMG_3985.jpeg -> /Users/santak/Documents/03_포스코새마을금고/IMG_3985.jpeg
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/PPT Templates-5 slide-jjdiary(모핑).pptx -> /Users/santak/Documents/03_포스코새마을금고/PPT Templates-5 slide-jjdiary(모핑).pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/[포스코새마을금고] 포스코 P직군 신입 안내 PT_25.7.29-사본.pptx -> /Users/santak/Documents/03_포스코새마을금고/[포스코새마을금고] 포스코 P직군 신입 안내 PT_25.7.29-사본.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/국문_대_MG브로슈어_52p_ppt.pptx -> /Users/santak/Documents/03_포스코새마을금고/국문_대_MG브로슈어_52p_ppt.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/국문_소_미니브로슈어_12p_ppt.pptx -> /Users/santak/Documents/03_포스코새마을금고/국문_소_미니브로슈어_12p_ppt.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/김수태 지점장 -> /Users/santak/Documents/03_포스코새마을금고/김수태 지점장
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/대출홍보 폼.pptx -> /Users/santak/Documents/03_포스코새마을금고/대출홍보 폼.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/면접.pptx -> /Users/santak/Documents/03_포스코새마을금고/면접.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/새마을금고 출자납부 이벤트.png -> /Users/santak/Documents/03_포스코새마을금고/새마을금고 출자납부 이벤트.png
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/새마을금고 홍보모델 -> /Users/santak/Documents/03_포스코새마을금고/새마을금고 홍보모델
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/생애주기1권-사회초년기.pdf -> /Users/santak/Documents/03_포스코새마을금고/생애주기1권-사회초년기.pdf
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/신입.xlsx -> /Users/santak/Documents/03_포스코새마을금고/신입.xlsx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/신입사원 26년 6월 -> /Users/santak/Documents/03_포스코새마을금고/신입사원 26년 6월
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/신입사원 교육자료(수정용) (1).pptx -> /Users/santak/Documents/03_포스코새마을금고/신입사원 교육자료(수정용) (1).pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/신입사원 교육자료4K 최종(250820).mp4 -> /Users/santak/Documents/03_포스코새마을금고/신입사원 교육자료4K 최종(250820).mp4
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/신한은행 보통사람 2024.pdf -> /Users/santak/Documents/03_포스코새마을금고/신한은행 보통사람 2024.pdf
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/정기예금 특판 홍보자료 및 메일.pptx -> /Users/santak/Documents/03_포스코새마을금고/정기예금 특판 홍보자료 및 메일.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/제목을 입력해주세요.pptx -> /Users/santak/Documents/03_포스코새마을금고/제목을 입력해주세요.pptx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/쿠팡 간식 주문.xlsx -> /Users/santak/Documents/03_포스코새마을금고/쿠팡 간식 주문.xlsx
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/포스코 직원 캐릭터_GPT -> /Users/santak/Documents/03_포스코새마을금고/포스코 직원 캐릭터_GPT
+- MOVED /Users/santak/Desktop/04_프로젝트/포스코새마을금고/홍지희 면접자료.pptx -> /Users/santak/Documents/03_포스코새마을금고/홍지희 면접자료.pptx
+- REMOVED_EMPTY /Users/santak/Desktop/04_프로젝트/포스코새마을금고
+- ARCHIVED /Users/santak/Desktop/04_프로젝트/Codex_New_project -> /Users/santak/Documents/99_기타/삭제검토_04프로젝트_정리_2026-05-29/Codex_New_project
+- NOTES /Users/santak/Desktop/04_프로젝트/Codex_문서_PPT_HWP -> /Users/santak/Documents/Codex_프로젝트/05_Mac_정리_설정/old_notes/Codex_문서_PPT_HWP
+- NOTES /Users/santak/Desktop/04_프로젝트/Codex_작업분리 -> /Users/santak/Documents/Codex_프로젝트/05_Mac_정리_설정/old_notes/Codex_작업분리
+- REMOVED /Users/santak/Desktop/04_프로젝트/.DS_Store
+- REMOVED_EMPTY /Users/santak/Desktop/04_프로젝트
